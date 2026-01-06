@@ -21,6 +21,7 @@ nav a {
     margin: 0 10px;
     text-decoration: none;
 }
+
 section {
     padding: 2rem;
     max-width: 800px;
@@ -30,7 +31,8 @@ section {
 section h2 {
     color: #333;
     margin-bottom: 1rem;
-}.project {
+}
+.project {
     background: #f4f4f4;
     padding: 1rem;
     margin: 1rem 0;
@@ -39,7 +41,8 @@ section h2 {
 
 .project h3 {
     color: #333;
-}footer {
+}
+footer {
     background: #333;
     color: white;
     text-align: center;
